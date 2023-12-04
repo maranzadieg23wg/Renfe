@@ -1,0 +1,124 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz@6..12&display=swap');
+
+*{
+    font-family: 'Nunito Sans', sans-serif;
+
+
+}
+
+
+
+body{
+    background-color: #EFF3F6;
+}
+#menuDad{
+    background: linear-gradient(90deg, rgba(255,0,59,1) 0%, rgba(139,0,255,1) 53%, rgb(58, 58, 213) 100%); 
+}
+
+#menu a{
+    color: #ffffff;
+    font-size: 2.2vh;
+
+    text-decoration: none;
+    transition: text-decoration 0.3s;
+}
+
+#menu a:hover{
+    text-decoration: underline;
+}
+
+#menu img{
+    height: 34px;
+    
+}
+
+#menu #logo img{
+    height: 75px;
+}
+
+#eskubi *{
+    margin-left: 10%;
+}
+#ezkerra *{
+    margin-left: 10%;
+}
+
+#bilatzailea{
+    margin-top: 3em;
+    background-color: white;
+    border-radius: 20px;
+}
+
+#bilatzailea input{
+    width: 73%;
+    height: 55px;
+}
+
+#bilatzailea p{
+    margin-right: 2%;
+    margin-top: 15px;
+}
+
+
+
+#informazioa{
+    margin-top: 3em;
+    background-color: white;
+    border-radius: 20px;
+}
+
+#informazioa img{
+    height: 323px;
+    border-radius: 4rem;
+}
+
+button{
+    background-color: #81005E;
+    border-radius: 4rem;
+    color: white;
+}
+
+#informazioa h1{
+    margin-top: 1em;
+}
+
+#informazioa p{
+    margin-top: 2em;
+}
+
+#informazioa button{
+    width: 50%;
+}
+
+
+#whatHapend{
+    margin-top: 3em;
+}
+
+
+#oferta{
+    background-color: white;
+    border-radius: 3rem;
+
+    margin-top: 1em;
+}
+
+#oferta p{
+    margin-top: 17px;   
+}
+
+
+
+#footer{
+    margin-top: 2em;
+
+    background-color: whitesmoke    ;
+}
+
+#footer a{
+    margin-left: 6%;
+
+    text-decoration: none;
+    color: black;
+}
